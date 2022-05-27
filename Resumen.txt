@@ -1,0 +1,4 @@
+Curso de Git y GitHub
+---------------------
+
+Este repositorio está orientado para realizar prácticas con Git y GitHub.
